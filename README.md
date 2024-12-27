@@ -1,4 +1,4 @@
-# movie_recommedation
+# movie_recommendation
 This is a movie recommendation project on the basis of content.
 <br>
 Author: Sanju Raj
